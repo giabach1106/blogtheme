@@ -1,0 +1,37 @@
+#title in header
+title: "Hi Folks."
+
+#main info
+#owner
+owner: "Le Gia Bach"
+info: "Currently highschool Students, I created this web when I was 16. Informal AI and WepApp developer"
+#description
+desc: "I know some of my works were inherit and fresh, but I'm trying to improve my self every single day. This blog is a place where I share
+my stories, achievements that I have made, personal ideas, and study documents when I am learning somthing new. Thanks for visiting this boring places, I really appreciate that,
+hope you can find something useful in this website.😁"
+#menu
+menu:
+  Articles: /archives
+  About me: /about
+
+#index/main page max show posts (in number)
+max_post: 2
+
+# social profile at the footer/bottom
+place: https://www.google.com/search?q=H%C3%A0+N%E1%BB%99i&oq=H%C3%A0+N%E1%BB%99i&aqs=chrome..69i57j0i10i512j0i10i131i433i512j46i10i131i413i424i433i512j0i10i131i433i512l4j46i10i131i175i199i422i424i433i512j0i10i512.3492j0j7&sourceid=chrome&ie=UTF-8
+github: https://github.com/giabach1106
+instagram: https://www.instagram.com/bachg1/
+twitter: https://www.codewars.com/
+
+# js
+nanobar: /js/nanobar.min.js
+
+# favicon
+favicon: /images/favicon.png
+
+article:
+  thumbnail: true
+
+# DISQUS comments (sign up to Disqus to get disqus_shortname)
+disqus_enabled: true
+disqus_shortname: https-giabach1106-github-io
